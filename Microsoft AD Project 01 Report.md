@@ -32,7 +32,9 @@ In this lab I’ve noted important information involved in setting up and operat
     1.  Right click on Administrator account \> copy.
     2.  First name: helpdesk. Logon name: helpdesk
 
-![A screenshot of a computer Description automatically generated](media/64efa4bc89c9f3570f16a957acfd0b12.png)
+![64efa4bc89c9f3570f16a957acfd0b12](https://github.com/kurtis7/active-directory-project/assets/41877975/6128008b-a5db-48b7-9887-1b62cbf0739a)
+
+
 
 **Step 3: Adding the first computer to the domain.**
 
@@ -74,7 +76,8 @@ In this lab I’ve noted important information involved in setting up and operat
         7.  RSAT: Server Manager
     5.  Active Directory tools are now downloaded for Windows 10. This will allow the help desk account we created to use Active Directory tools without needed access to the Domain Controller.
 
-        ![A screenshot of a computer Description automatically generated](media/2cde3ff8df1ad50889294771863a03e7.png)
+![2cde3ff8df1ad50889294771863a03e7](https://github.com/kurtis7/active-directory-project/assets/41877975/d359a918-e58e-4520-b28d-05e1434e0cc1)
+
 
     6.  Restart the machine.
 3.  Adding the Windows 10 computer to the domain and setup
@@ -82,7 +85,8 @@ In this lab I’ve noted important information involved in setting up and operat
         1.  Settings \> About \> Change name
     2.  Download Google Chrome and TeamViewer on Windows 10 Lab
     3.  Change IPv4 settings of Ethernet Adapter
-        1.  ![A screenshot of a computer Description automatically generated](media/20ff16e43fac02ed167b76f2461460c9.png)
+        1.  ![20ff16e43fac02ed167b76f2461460c9](https://github.com/kurtis7/active-directory-project/assets/41877975/ea1b0a57-aa1c-4ee1-badd-c25e69bf7a1a)
+
     4.  Select VirtualBox Devices tab \> Network Settings \> Select “Host-adapter only”
     5.  On Windows 10 machine go to About in Settings \> Advanced system settings \> Computer Name \> Change \> Type in domain “kreed.com”
         1.  Enter the credentials for the admin account on the domain controller. Username: vboxuser
